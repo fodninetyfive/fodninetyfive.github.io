@@ -1,6 +1,12 @@
 blog:
   name: blog
 
+ruminations:
+  name: ruminations
+
+yellowcarding:
+  name: yellowcarding
+
 tour:
   name: tour
 
