@@ -6,17 +6,17 @@ tags: ruminations
 
 i want to be part of it\
 motivated to pull it together\
-activated by smiles\
+activated by anticipation\
 energized by laughter, thoughtful exchanges\
 eager to augment, afraid to impact\
 happy to be there.
 
 a compulsion to capture\
-the closest thing to permanence\
-memories trick you, moments don’t hang\
-the photos you take are the next best thing to proof\
-that was real. you were there!\
-behind the lens. out of frame.
+since permanence is impossible\
+memories trick, moments don’t hang\
+the records you make are the closest you get\
+that was real - you were there!\
+behind the lens, out of frame.
 
 take a walk and it’s dark out\
 make a plan - it’s tomorrow\
