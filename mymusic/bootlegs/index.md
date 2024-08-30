@@ -1,13 +1,8 @@
 ---
-layout: music-jvd
-title: "My Music"
+layout: music
+title: "bootlegs"
 ---
 
-i made you a mixtape of my best stuff. double-click and listen to some glorious 64kbps mp3s!!!
-
-play it as loud as you can on some of these babys. trust me!
-
-(seems like Safari on Macs and iOS plays songs a bit fast at the start so just bear with it for a few seconds. you might need to nudge the seek bar, too)
 
 <img width="400px" src="/assets/images/speakers.jpg">
 
@@ -36,3 +31,38 @@ play it as loud as you can on some of these babys. trust me!
 });
     webamp.renderWhenReady(app);
 </script>
+
+the lonely forest – i hope you don’t forget these songs - live at bumbershoot 2014 [08/30/14]
+
+The Lonely Forest
+Bumbershoot Fountain Lawn Stage
+Seattle, WA
+August 30, 2014
+
+Zoom H4n Handy Recorder [Soundboard+Audience @ 24/48]> Logic Pro X> Audacity> dBPowerAmp
+
+01 intro
+02 They’re on to Something
+03 Far Outer Banks
+04 Two Pink Pills
+05 Coyote
+06 Left Hand Man
+07 Centennial
+08 Soil, Silt and Clay
+09 Tunnels
+10 Blackheart vs. Captain America
+11 Let It Go
+12 Turn Off This Song and Go Outside
+13 I Don’t Want to Live There
+14 We Sing in Time
+
+Uploaded to wesingintime.com and fireworksordie.com October 15, 2014
+
+Well, this is it. The last Lonely Forest show, and consequently, my last Lonely Forest recording. Special thanks to Ryan Ricketts for his always-excellent board mixing. The show is fantastic and the recording came out great. It was a very special day, and I’m glad that those who couldn’t make the trip out get to experience it second-hand. 
+
+I hope you’ll take some time to enjoy the full cover artwork- there are many photos from shows over the past years as well as old promo and studio session photos, many which have never before seen the light of day. Huge thanks to Tony for digging these up, as well as everyone else who sent photos to include in the mosaic lottery. (And yeah, there are some repeats - you didn’t think I made this by hand, did you? There’s always an app for that!)
+
+The Lonely Forest and their music have meant and will continue to mean a lot to me, and there’s no way I could have imagined just four years ago that I’d be able to call these guys my friends some day. So thank you John, Tony, Eric, and Braydn, for bringing these songs into the world, and for being all-around fantastic people. I look forward to what you’ll all do in the years to come.
+
+Mixed/mastered by fireworksordie
+fireworksordie.com / @fireworksordie / fireworksordie@gmail.com
