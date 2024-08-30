@@ -5,4 +5,4 @@ title: "My Music"
 
 gonna start putting recordings i've made here.
 
-here's one:
+check out the bootlegs folder up top for a start!
