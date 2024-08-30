@@ -59,7 +59,7 @@ Zoom H4n Handy Recorder [Soundboard+Audience @ 24/48] > Logic Pro X > Audacity >
 14. We Sing in Time
 
 **Upload Information:**  
-Uploaded to wesingintime.com and fireworksordie.com on October 15, 2014
+Originally uploaded to wesingintime.com on October 15, 2014
 
 ---
 
@@ -70,5 +70,4 @@ I hope you’ll take some time to enjoy the full cover artwork—there are many 
 The Lonely Forest and their music have meant and will continue to mean a lot to me, and there’s no way I could have imagined just four years ago that I’d be able to call these guys my friends someday. So thank you John, Tony, Eric, and Braydn, for bringing these songs into the world, and for being all-around fantastic people. I look forward to what you’ll all do in the years to come.
 
 **Mixed/mastered by**: fireworksordie  
-**Website**: [fireworksordie.com](http://fireworksordie.com)  
 **Contact**: [@fireworksordie](https://twitter.com/fireworksordie) / fireworksordie@gmail.com
