@@ -14,19 +14,19 @@ title: "bootlegs"
     const webamp = new Webamp({
   initialTracks: [
 {metaData: {artist: "The Lonely Forest", title: "Intro",}, url: "/assets/audio/01-intro.m4a"},
-{metaData: {artist: "The Lonely Forest", title: "They're On To Something",}, url: "/assets/audio/02-theyre-on-to-something.m4a"},
+{metaData: {artist: "The Lonely Forest", title: "They're on to Something",}, url: "/assets/audio/02-theyre-on-to-something.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "Far Outer Banks",}, url: "/assets/audio/03-far-outer-banks.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "Two Pink Pills",}, url: "/assets/audio/04-two-pink-pills.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "Coyote",}, url: "/assets/audio/05-coyote.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "Left Hand Man",}, url: "/assets/audio/06-left-hand-man.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "Centennial",}, url: "/assets/audio/07-centennial.m4a"},
-{metaData: {artist: "The Lonely Forest", title: "Soil, Silt, And Clay",}, url: "/assets/audio/08-soil,-silt-and-clay.m4a"},
+{metaData: {artist: "The Lonely Forest", title: "Soil, Silt and Clay",}, url: "/assets/audio/08-soil,-silt-and-clay.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "Tunnels",}, url: "/assets/audio/09-tunnels.m4a"},
-{metaData: {artist: "The Lonely Forest", title: "Blackheart vs Captain America",}, url: "/assets/audio/10-blackheart-vs-captain-america.m4a"},
+{metaData: {artist: "The Lonely Forest", title: "Blackheart vs. Captain America",}, url: "/assets/audio/10-blackheart-vs-captain-america.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "Let It Go",}, url: "/assets/audio/11-let-it-go.m4a"},
-{metaData: {artist: "The Lonely Forest", title: "Turn Off This Song And Go Outside",}, url: "/assets/audio/12-turn-off-this-song-and-go-outside.m4a"},
+{metaData: {artist: "The Lonely Forest", title: "Turn Off This Song and Go Outside",}, url: "/assets/audio/12-turn-off-this-song-and-go-outside.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "I Dont Want To Live There",}, url: "/assets/audio/13-i-dont-want-to-live-there.m4a"},
-{metaData: {artist: "The Lonely Forest", title: "We Sing In Time",}, url: "/assets/audio/14-we-sing-in-time.m4a"}
+{metaData: {artist: "The Lonely Forest", title: "We Sing in Time",}, url: "/assets/audio/14-we-sing-in-time.m4a"}
 ],
 
 });
