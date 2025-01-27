@@ -2,7 +2,7 @@
 layout: projects
 title: "THE TEN in 1080p"
 ---
-<img width="350px" src="thetendiscs.jpg">
+<img src="thetendiscs.jpg" alt="what on earth will i ever do with these" class="yc-img">
 # THE TEN in 1080p
 ## Seven Years, Seven Discs, and the Stubborn Pursuit of Quality
 
