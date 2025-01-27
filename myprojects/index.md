@@ -3,6 +3,4 @@ layout: projects
 title: "My Projects"
 ---
 
-gonna start putting recordings i've made here.
-
-check out the bootlegs folder up top for a start!
+welcome to my little portfolio! feel free to click around until i build it out a bit.
