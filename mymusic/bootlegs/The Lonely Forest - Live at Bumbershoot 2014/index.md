@@ -1,6 +1,6 @@
 ---
 layout: music
-title: "bootlegs"
+title: "The Lonely Forest - Live at Bumbershoot 2014"
 ---
 # The Lonely Forest – *I Hope You Don’t Forget These Songs* - Live at Bumbershoot 2014 [08/30/14]
 
