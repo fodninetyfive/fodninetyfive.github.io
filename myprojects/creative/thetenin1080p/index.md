@@ -5,8 +5,8 @@ title: "THE TEN in 1080p"
 <img src="thetendiscs.jpg" alt="what on earth will i ever do with these" class="yc-img">
 
 # THE TEN in 1080p: 
-## Seven Years, Seven Discs, and the Stubborn Pursuit of Quality  
-
+## Seven Years, Seven Discs, and the Stubborn Pursuit of Quality
+<br/>
 ****
 
 I have this odd obsession with a movie called _THE TEN_, an absurdist comedy written and directed by David Wain, the genius behind _WET HOT AMERICAN SUMMER_ and one of the many members of _The State_. It's extremely silly and it holds a special place in my heart. The film takes the ten commandments and loosely interprets them through a series of ridiculous vignettes, with appearances by Paul Rudd, Justin Theroux, Rob Corddry, even Jessica Biel—a surprising amount of star power for such a strange project. It doesn't take itself seriously, and I adore it for that.
