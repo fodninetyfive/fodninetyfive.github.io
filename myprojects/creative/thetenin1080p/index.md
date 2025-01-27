@@ -6,7 +6,6 @@ title: "THE TEN in 1080p"
 
 # THE TEN in 1080p: 
 ## Seven Years, Seven Discs, and the Stubborn Pursuit of Quality
-\
 ****
 
 I have this odd obsession with a movie called _THE TEN_, an absurdist comedy written and directed by David Wain, the genius behind _WET HOT AMERICAN SUMMER_ and one of the many members of _The State_. It's extremely silly and it holds a special place in my heart. The film takes the ten commandments and loosely interprets them through a series of ridiculous vignettes, with appearances by Paul Rudd, Justin Theroux, Rob Corddry, even Jessica Biel—a surprising amount of star power for such a strange project. It doesn't take itself seriously, and I adore it for that.
@@ -21,7 +20,7 @@ I was stuck with two options:
 1. a lower-quality, standard-definition version of the movie that was otherwise good
 2. a higher-resolution copy that ran too fast and had foreign text. 
 
-I'll take neither!
+I'll take neither, thanks!
 
 ## Taking Matters Into My Own Hands
 In 2018, after letting this frustration stew for a few years, I decided to take matters into my own hands. I bought an HD DVD player and a sealed copy of _The Ten_ on HD DVD off of eBay. The plan was to archive the disc and encode a proper 1080p version myself. Preservation! But after plugging the old Xbox 360 HD DVD drive into my PC, inserting the disc, and copying the disc contents to my PC for decryption, the process kept failing. I couldn’t figure out what was wrong—the disc was visually flawless, no scratches, nothing. After trying a few times, I accepted that I got a bad disc and I ordered another sealed copy. After waiting a week for it to arrive I was met with the same issue. Hmmm.
