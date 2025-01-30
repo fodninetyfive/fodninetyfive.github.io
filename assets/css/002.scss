@@ -5,8 +5,22 @@
 @import "main";
 
 .default_title {
-	background: #808080;
+	// background: #808080;
+	background: linear-gradient(to right, 
+	#6E6E6E 0%,   /* Dark gray */
+	#8C8C8C 30%,  /* Medium gray */
+	#B2B2B2 70%,  /* Lighter gray */
+	#D6D6D6 100%  /* Lightest gray */
+);
+
 }
 .post_title {
-	background: #00007f;
+	// background: #00007f;
+	background: linear-gradient(to right, 
+	#002E5A 0%,  /* Dark blue */
+	#004080 30%, /* Medium blue */
+	#3B6EA5 70%, /* Lighter blue */
+	#9BBCE0 100% /* Lightest blue */
+);
+
 }

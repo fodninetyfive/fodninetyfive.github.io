@@ -1,0 +1,9 @@
+<ul>
+    {% for tag in site.data.tags %}
+        {% if tag.name == page.title %}
+            {% for sub_tag in tag.sub_tags %}
+                <li><a href="{{ sub_tag.url }}" title="{{ sub_tag.name }}"><img src="{{ sub_tag.icon }}" title="{{ sub_tag.name }}" />{{ sub_tag.name }}</a></li>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+</ul>

@@ -2,7 +2,7 @@
 layout: default
 ---
 <ul>
-	{% for post in site.posts %}
-	<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
+	{% for tag in site.data.tags %}
+	<li><a href="{{ tag.url }}" title="{{ tag.name }}"><img src="{{ tag.icon }}" title="{{ tag.name }}" />{{ tag.name }}</a></li>
 	{% endfor %}
 </ul>

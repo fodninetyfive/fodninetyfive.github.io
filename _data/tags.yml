@@ -1,23 +1,36 @@
-blog:
-  name: blog
+# Updated structure for all tags
+- name: My Documents
+  url: /mydocuments/
+  icon: /assets/img/xp_folder_docs.ico
+  sub_tags:
+    - name: ruminations
+      url: /ruminations/
+      icon: /assets/img/xp_folder.ico
+    - name: yellowcarding
+      icon: /assets/img/xp_folder.ico
+      url: /yellowcarding/
 
-ruminations:
-  name: ruminations
+- name: My Projects
+  url: /myprojects/
+  icon: /assets/img/xp_proj.ico
+  # sub_tags:
+  #   - name: creative
+  #     url: /creative/
+  #     icon: /assets/img/xp_folder.ico
 
-yellowcarding:
-  name: yellowcarding
+- name: My Music
+  url: /mymusic/
+  icon: /assets/img/xp_folder_music.ico
+  sub_tags:
+    - name: bootlegs
+      url: /bootlegs/
+      icon: /assets/img/xp_folder.ico
 
-tour:
-  name: tour
+- name: My Pictures
+  url: /mypictures/
+  icon: /assets/img/xp_folder_pics.ico
 
-tag1:
-  name: tag1
+- name: My Videos
+  url: /myvideos/
+  icon: /assets/img/xp_folder_vids.ico
 
-tag2:
-  name: tag2
-
-tag3:
-  name: tag3
-
-tag4:
-  name: tag4
