@@ -4,18 +4,18 @@
   icon: /assets/img/xp_folder_docs.ico
   sub_tags:
     - name: ruminations
-      url: /ruminations/
+      url: /mydocuments/ruminations/
       icon: /assets/img/xp_folder.ico
     - name: yellowcarding
+      url: /mydocuments/yellowcarding/
       icon: /assets/img/xp_folder.ico
-      url: /yellowcarding/
 
 - name: My Projects
   url: /myprojects/
   icon: /assets/img/xp_proj.ico
   # sub_tags:
   #   - name: creative
-  #     url: /creative/
+  #     url: /myprojects/creative/
   #     icon: /assets/img/xp_folder.ico
 
 - name: My Music
@@ -23,7 +23,7 @@
   icon: /assets/img/xp_folder_music.ico
   sub_tags:
     - name: bootlegs
-      url: /bootlegs/
+      url: /mymusic/bootlegs/
       icon: /assets/img/xp_folder.ico
 
 - name: My Pictures

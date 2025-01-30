@@ -3,7 +3,14 @@ layout: default
 ---
 {% include subtags.html %}
 <ul>
-    {% for post in page.posts %}
-        <li><a href="{{ post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
+    {% for post in site.posts %}
+        {% if post.tags contains page.title %}
+            <li>
+                <a href="{{ post.url }}" title="{{ post.title }}">
+                    <img src="/assets/img/file.ico" title="{{ post.title }}" />
+                    {{ post.title }}
+                </a>
+            </li>
+        {% endif %}
     {% endfor %}
 </ul>
