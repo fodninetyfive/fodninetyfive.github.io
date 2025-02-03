@@ -21,7 +21,7 @@ tags: bootlegs
 {metaData: {artist: "The Lonely Forest", title: "Coyote",}, url: "/assets/audio/2014-08-30-tlfbumbershoot/05-coyote.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "Left Hand Man",}, url: "/assets/audio/2014-08-30-tlfbumbershoot/06-left-hand-man.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "Centennial",}, url: "/assets/audio/2014-08-30-tlfbumbershoot/07-centennial.m4a"},
-{metaData: {artist: "The Lonely Forest", title: "Soil, Silt and Clay",}, url: "/assets/2014-08-30-tlfbumbershoot/audio/08-soil-silt-and-clay.m4a"},
+{metaData: {artist: "The Lonely Forest", title: "Soil, Silt and Clay",}, url: "/assets/audio/2014-08-30-tlfbumbershoot/08-soil-silt-and-clay.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "Tunnels",}, url: "/assets/audio/2014-08-30-tlfbumbershoot/09-tunnels.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "Blackheart vs. Captain America",}, url: "/assets/audio/2014-08-30-tlfbumbershoot/10-blackheart-vs-captain-america.m4a"},
 {metaData: {artist: "The Lonely Forest", title: "Let It Go",}, url: "/assets/audio/2014-08-30-tlfbumbershoot/11-let-it-go.m4a"},
