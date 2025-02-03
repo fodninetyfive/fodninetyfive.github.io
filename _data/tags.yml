@@ -13,10 +13,10 @@
 - name: My Projects
   url: /myprojects/
   icon: /assets/img/xp_proj.ico
-  # sub_tags:
-  #   - name: creative
-  #     url: /myprojects/creative/
-  #     icon: /assets/img/xp_folder.ico
+  sub_tags:
+    - name: creative
+      url: /myprojects/creative/
+      icon: /assets/img/xp_folder.ico
 
 - name: My Music
   url: /mymusic/
