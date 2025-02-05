@@ -12,4 +12,4 @@ tools used: Pixelmator, Adobe Illustrator, Adobe Photoshop
 ****
 check it out: [wesingintime.com](https://www.wesingintime.com)
 
-<img src="/assets/images/myprojects/creative/20141111/wesingintimecrop.jpg" alt="wesingintime.com" class="yc-img">
+<img src="/assets/images/myprojects/creative/20141111/wesingintimecrop.jpg" target="_blank" alt="wesingintime.com" class="yc-img">
