@@ -10,7 +10,7 @@ tags: yellowcarding
 
 i’m laying on my couch in the dark again, listening to “Confirmation” on repeat. it’s a meditation - but today it’s also a celebration. my sister sent me My Favorite Song 5 years ago today, and i think that’s cool as hell.
 
-<img src="../assets/images/yc/bestbday/carterart.jpg" alt="me on the couch in the dark. drawn by my lovely, talented, powerful sister" class="yc-img">
+<img src="../assets/images/yc/20230328/carterart.jpg" alt="me on the couch in the dark. drawn by my lovely, talented, powerful sister" class="yc-img">
 
 Carter and i live about 15 minutes from each other these days - something i’m still getting used to. for the majority of the last decade and a half we’ve lived in different states. we’ve had more opportunities to go to shows together in the last year than most before, combined. i’m very thankful for the opportunity to see her more often. 
 
@@ -24,7 +24,7 @@ years passed, refining the rhythm. it goes like this: i’ll send her some song 
 
 “this is very good”, i replied. uh huh. kind of a big deal, dude.
 
-<img src="../assets/images/yc/bestbday/fbchat1.jpg" class="yc-img">
+<img src="../assets/images/yc/20230328/fbchat1.jpg" class="yc-img">
 
 * * *
 
@@ -42,4 +42,4 @@ it’s weird to think that there’s a version of me that never heard the song. 
 
 Carter made the vibey art of me drifting on the couch to “Confirmation” without really knowing what this was gonna be about. thank you, Carter. this is all your fault. <3
 
-<img src="../assets/images/yc/bestbday/fbchat2.jpg" alt="always bringing the birthday heat" class="yc-img">
+<img src="../assets/images/yc/20230328/fbchat2.jpg" alt="always bringing the birthday heat" class="yc-img">

@@ -16,7 +16,7 @@ OK, technically before- i had peeked at the prior nights’ setlists and saw it 
 
 truthfully, i was yellowcarding “Simple Song” _the day it came out._ over and over and over. i’ve got some obsessive energy when it comes to most things i enjoy, but it’s still so invigorating when a song pulls me in that hard and doesn’t let go. i remember hearing it for the first time, and the second, and the seventeeth - it was one of the first days of class of my sixth semester in college and it made me feel like things were gonna be OK.
 
-<img src="../assets/images/yc/simplesong/simplesong.png" class="yc-img">
+<img src="../assets/images/yc/20220929/simplesong.png" class="yc-img">
 
 the build, the squealing guitars, the driving beat. it’s an anthem. it felt triumphant and exciting. it was something i’d clearly only heard for the first time, but already familiar. and it’s corny when you break it down, because it IS simple. there’s nothing it does particularly out of the ordinary on the surface. it’s just an impressively perfected chunk of pop rock that hits your brain in the right spots. one of the best _ones of those_ there is.
 
@@ -38,7 +38,7 @@ kudos where it’s due - the actual bridge still earns “Simple Song” a spot 
 
 * * *
 
-<img src="../assets/images/yc/simplesong/shins.jpg" alt="a lackluster photo of The Shins i took on September 10, 2022 at the Orpheum in Minneapolis" class="yc-img">
+<img src="../assets/images/yc/20220929/shins.jpg" alt="a lackluster photo of The Shins i took on September 10, 2022 at the Orpheum in Minneapolis" class="yc-img">
 
 The Shins concert on September 10, 2022 was weird - eventually good, even great. they played _Oh, Inverted World_ front-to-back along with a smattering of back catalogue highlights. it was the first/only -The Shins- show i’ve attended. i like The Shins a lot! also: i will never think about The Shins without recalling reading a Pitchfork article in 2009 that felt like some hella drama at the time. they had [reported](https://pitchfork.com/news/35257-shins-james-mercer-spills-about-lineup-changes-new-album-other-projects/) that James did some kinda big shake-up within “the band” and fired all the usual players. and then a week later they reported that [the drummer was opening a taco truck](https://pitchfork.com/news/35321-ex-shins-drummer-to-open-taco-cart/). good for him! i love tacos.
 
@@ -60,7 +60,7 @@ and look - the encore was dandy. but it certainly wasn’t necessary at that poi
 
 one of my best friends had never even heard of _Frindle_. don’t embarass me, nerd! almost everyone else i know read it in middle school. it’s about a kid who calls his pen a frindle and then it catches on and calling your pen a frindle becomes a weird craze that takes over the whole fucking world or something very silly like that. he gets on the news! the cover is the hero of our story who looks a lot like the kid from the Magic School Bus holding one of those Bic pens you had in your trapper keeper. it made every kid just fucking psyched about the idea of what words can mean and do and also the general idea of “going viral” before that was something we craved or feared.
 
-<img src="../assets/images/yc/simplesong/frindle.jpg" class="yc-img">
+<img src="../assets/images/yc/20220929/frindle.jpg" class="yc-img">
 
  **yellowcarding** \- in this context, right now, for me - is active fixation. when i can’t stop thinking about / processing / consuming a song. or an album. or a movie? art. content. an idea. a problem. a frustration. no matter what, i’m buckled up for the ride. i don’t want off the ride. “again”, i think. listening to “Ocean Avenue” over and over and over. i can’t get enough. i’m not sure i ever will. 
 

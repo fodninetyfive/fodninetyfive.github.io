@@ -10,7 +10,7 @@ tags: yellowcarding
 
 ****
 
-<img src="../assets/images/yc/anotheryearofboxes/boxes.jpg" alt="box." class="yc-img">
+<img src="../assets/images/yc/20230205/boxes.jpg" alt="box." class="yc-img">
 
 my room has been a special kind of mess for the last couple months. i went drearily into the holidays thinking it would be a great time to pull everything out, take stock, reorganize, and shed dead weight. i didn’t really unpack last year - just found nooks for all the odds and ends i’d moved from Chicago. not unusual, really.
 
@@ -40,7 +40,7 @@ i thought it would be fun to put together some semblance of a year’s end list,
 
 * * *
 
-<img src="../assets/images/yc/anotheryearofboxes/backpack.jpg" alt="backpack." class="yc-img">
+<img src="../assets/images/yc/20230205/backpack.jpg" alt="backpack." class="yc-img">
 
 ##  **the Backpack**
 
@@ -83,7 +83,7 @@ i packed this one with everything i keep with me. front of mind. on my person. c
 
 * * *
 
-<img src="../assets/images/yc/anotheryearofboxes/tstak.jpg" alt="tstak." class="yc-img">
+<img src="../assets/images/yc/20230205/tstak.jpg" alt="tstak." class="yc-img">
 
 ## **the** DeWalt® TSTAK® 
 
@@ -134,7 +134,7 @@ i bought an absolute boatload of these bad boys last year before i moved. these 
 
 * * *
 
-<img src="../assets/images/yc/anotheryearofboxes/donate.jpg" alt="donate box." class="yc-img">
+<img src="../assets/images/yc/20230205/donate.jpg" alt="donate box." class="yc-img">
 
 ## **the Donate Box**
 
@@ -173,7 +173,7 @@ it doesn’t always feel very fun to talk down on things, especially when some o
 
 * * *
 
-<img src="../assets/images/yc/anotheryearofboxes/unopened.jpg" alt="unpopened box." class="yc-img">
+<img src="../assets/images/yc/20230205/unopened.jpg" alt="unpopened box." class="yc-img">
 
 **the Box Sitting There, Unopened**
 

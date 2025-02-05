@@ -14,7 +14,7 @@ tags: yellowcarding
 
 i got **Pokémon Blue** from Media Play in Rockford after getting a taste of it at a family friend’s house. i probably would have been 7, and up until that point i had only played **Tetris** and **Super Mario Land** on my red Game Boy Pocket. my first starter was Squirtle, and i got stuck in Rock Tunnel without Flash for a while, but i’m pretty dang sure i eventually caught Mewtwo. 
 
-<img src="../assets/images/yc/pokemonlettinggo/gbpocket.jpg" alt="only $1,199.95" class="yc-img">
+<img src="../assets/images/yc/20221118/gbpocket.jpg" alt="only $1,199.95" class="yc-img">
 
 we were on vacation in Orlando in January of 2000 when i left my backpack sitting outside of our rental car during a visit to Downtown Disney. inside was my CD player with a copy of Smash Mouth’s _Astro Lounge_ , my red Game Boy Pocket, and **Pokémon Yellow** \- the one where Pikachu and that pesky Team Rocket were always following me around - sitting snugly inside the cartridge slot. i remember i had saved my game in front of Articuno in the Seafoam Islands. i was so, so bummed. but it ended up being replaced with a lime green Game Boy Color ( _sick_ ) and another copy of **Yellow**. (i got another copy of _Astro Lounge_ , too. all was well.)
 
@@ -24,7 +24,7 @@ i managed to download a Japanese ROM of **Pokémon Gold** onto our old, grey, De
 
 
 <a href="https://twitter.com/dosnostalgic/status/1067614482866864128" target="_blank">
-  <img src="../assets/images/yc/pokemonlettinggo/nocash.jpg" alt="oh man, losing Twitter is gonna suck for people trying to find screenshots of 25-year-old emulators" class="yc-img">
+  <img src="../assets/images/yc/20221118/nocash.jpg" alt="oh man, losing Twitter is gonna suck for people trying to find screenshots of 25-year-old emulators" class="yc-img">
 </a>
 
 so i played that first 5 minutes of **Pokémon Gold** \- in a language i did not understand on the desktop tucked into the closet between the kitchen and the dining room that sat empty for almost 2 decades - over, and over, and over. those 5 minutes consisted of:
@@ -52,7 +52,7 @@ i was scouting the Sunday Best Buy ads the weekend **Gold and Silver** finally c
 
 * * *
 
-<img src="../assets/images/yc/pokemonlettinggo/kanto.png" alt="i don’t know why this saved blurry. pretend i did it on purpose." class="yc-img">
+<img src="../assets/images/yc/20221118/kanto.png" alt="i don’t know why this saved blurry. pretend i did it on purpose." class="yc-img">
 
 i’ve anticipated just about every game since then hoping for that feeling. almost every generation on (since **Ruby and Sapphire** ) i’ve only lasted about 2 to 4 gyms before losing motivation. even in **HeartGold and SoulSilver** \- the remakes of my favorite games of all time, and the set that many fans feel was GameFreak’s absolute peak - i only made it to just before the 8th gym. i’ve still got my cart and save file somewhere that i think about picking back up every now and then… and then i don’t. 
 
@@ -60,7 +60,7 @@ none have them have shaken that feeling that i’ve been there before, but bette
 
 i’ll be thankful to _ever_ feel the high i did walking into Kanto after beating the Elite Four in **Gold**. it might have been my introduction to the concept of nostalgia as a reference in media, and it’s certainly one of the best to ever do it. surprise! here’s another chunk of game, you lucky duck! just _because!_ few games since that generation have had that “one more thing” that got me. something that really makes the game more than the expected 8 gyms and the Elite Four. it’s not the games i started anticipating anymore - it was what they could really wow me with. their **[Doc Brown Spider Monster](https://easyallies.fandom.com/wiki/Doc_Brown_Spider_Monster)**.
 
-<img src="../assets/images/yc/pokemonlettinggo/letsgo.jpg" alt="hell yeah. pump it right into my veins. i don’t even care anymore." class="yc-img">
+<img src="../assets/images/yc/20221118/letsgo.jpg" alt="hell yeah. pump it right into my veins. i don’t even care anymore." class="yc-img">
 
 then **Pokémon Let’s Go** came along. after **Pokémon GO** didn’t hook me, the thought of the series catering to a **GO** crossover audience was like the the Thing I Feared Could Happen, Happening. then i gave it a shot because it’s what i’ve done every time out of masochistic, blind trust and fucking _loved it._ **Let’s Go** ’s redesigned wild Pokémon battles made me realize i was truly burnt out on the core series game loop. it certainly didn’t hurt that it was **Red and Blue** (technically **Yellow** ) all over again - sneaking back to that “walking into Kanto” feeling like they’d done already with **FireRed and LeafGreen** (which i of course ate up). but the experience leaned more into the concept of exploration than that dusty, often [egregiously slow battle system](https://www.youtube.com/watch?v=GhmDmIt8AHY). a Pokémon game was willing to get a little _weird_. the **Let’s Go** games ended up selling absolute gangbusters. then Game Freak said they weren’t planning to do more of them in favor of “[new things](https://www.ign.com/articles/2019/10/25/pokemon-developers-dont-have-plans-for-more-lets-go-games)”. i love that in theory! give me _new_ things! (to be fair- they did shortly after. Pokemon Legends: Arceus was pretty weird and new. my interest waned after the initial shock, but if it’s a sign of things to come, neat! yes please!)
 
@@ -70,12 +70,12 @@ they said this during the lead-up to **Sword and Shield** on the Switch, which i
 
 so here i am. after years of anticipating, i’ve finally decided to stop. i’ve been almost completely media-blackout on the new games. i’ve seen one weird new coin Pokémon. it’s pretty cute? i’ll probably watch some people streaming the games, take the temp on the vibe. i’m gonna let it have a chance to pull me in, but i’ve been feeling okay sitting this one out until it’s had some time to settle. to get a sense of whether it has that spark - that spider monster. i feel like i read something about being able to do gyms in any order, which is neat i guess, but it’s probably still 8 fucking gyms, right?
 
-<img src="../assets/images/yc/pokemonlettinggo/gsearch.png" class="yc-img">
+<img src="../assets/images/yc/20221118/gsearch.png" class="yc-img">
 
-<img src="../assets/images/yc/pokemonlettinggo/gresult.jpg" alt="honestly, even 7 would have been funny, Game Freak. freak me out!" class="yc-img">
+<img src="../assets/images/yc/20221118/gresult.jpg" alt="honestly, even 7 would have been funny, Game Freak. freak me out!" class="yc-img">
 
 “just like games past”. but you know what? it can’t hurt me this time.
 
-<img src="../assets/images/yc/pokemonlettinggo/journey.gif" class="yc-img">
+<img src="../assets/images/yc/20221118/journey.gif" class="yc-img">
 
 let’s… go?

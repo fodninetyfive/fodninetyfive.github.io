@@ -16,13 +16,13 @@ two. login to [OiNK.me.uk](https://en.wikipedia.org/wiki/Oink%27s_Pink_Palace) a
 
 three. load them onto your mp3 player. your first iPod - a black 30 GB iPod Video - was the one that had Demon Days on the packaging, and you got it for Christmas, so that won’t be for a few months. you must be listening on your little grey SanDisk thumbstick mp3 player. 1 gig of space. you make it count.
 
-<img src="../assets/images/yc/howtolisten/sandisk.jpg" class="yc-img">
+<img src="../assets/images/yc/20230929/sandisk.jpg" class="yc-img">
 
 four. be on a bus. the memory is that you’re on a dark bus in the circle. the timing might not make sense, to be honest. but that’s the memory. you can see your high school friends yelling, sitting on the edges of the wide, grey seats, huddling and pointing and having a good time. it might be a mishmash, but the vibe is correct, and that’s what matters.
 
 five. _**Twin Cinema**_ kicks off messy and dissonant. that is not usually your shit - you’re already a real risk-taker sticking with this. very punk rock. 
 
-<img src="../assets/images/yc/howtolisten/twincinema.jpg" class="yc-img">
+<img src="../assets/images/yc/20230929/twincinema.jpg" class="yc-img">
 
 six. Neko sings in your left ear like 8 seconds in and that’s it. that’s ball game.
 
@@ -34,7 +34,7 @@ nine. you’re not even halfway through the album and that back half is _not a j
 
 ten. _**Plans**_ on the ride home.
 
-<img src="../assets/images/yc/howtolisten/plans.jpg" class="yc-img">
+<img src="../assets/images/yc/20230929/plans.jpg" class="yc-img">
 
 eleven. _**Transatlanticism**_ was never ~your album~. yours was _**Plans**_. it’s overproduced, polished, sealed tightly in clingwrap for absolute freshness. nothing in, nothing out. uncanny valley vibes. Stepford Wives energy. it’s perfect. you coast on it, only ever drifting along it.
 
@@ -60,7 +60,7 @@ twenty-one. i want to have been in that room. i want to hear the decisions, the 
 
 twenty-two. in hindsight “Crooked Teeth” has some real They Might Be Giants energy. it’s all just math, everything’s connected. [that paper robot music video off the companion “Directions” DVD](https://www.youtube.com/watch?v=LNl2sGbEiqo)? that was Rob Schrab, you fucking goober. [it gets worse](https://www.youtube.com/watch?v=GTO1uyzQ9wg)! you only put that together like a few years ago. it’s like when you figured out [Self](https://en.wikipedia.org/wiki/Self_\(band\)) was the one who did [the first song on the Shrek soundtrack](https://www.youtube.com/watch?v=M-TCnUnYeZo) and the [Expedia Dot Com jingle](https://www.youtube.com/watch?v=Ic_s4o7ACqk) and toured in Beck’s band. honestly? make a conspiracy wall. it’s time to go full nuts.
 
-<img src="../assets/images/yc/howtolisten/charlie.jpg" class="yc-img">
+<img src="../assets/images/yc/20230929/charlie.jpg" class="yc-img">
 
 twenty-three. “What Sarah Said” is perfect. it’s one of Ben’s best, bar none. you’d kill for more of this. it’s pretentious, sad, and distant. “the TV entertained itself” is just one of those all time things. and then he hits you with the “love is watching someone die”? jesus, man. sounds heavy, then you overthink it, and then you think about it again. tilt your head to the side a bit for effect.
 
