@@ -110,29 +110,61 @@ ul.topbar {
 
 	ul {
 		list-style: none;
+		padding: 8px;
 
 		li {
-			display: inline-block;
-			margin: 10px;
-			max-width: 16ch;
-			overflow: hidden;
-			text-overflow: ellipsis;
-			white-space: nowrap;
-			text-align: center;
+			display: flex;
+			align-items: center;
+			margin-bottom: 1rem; // Adjust the spacing between list items as needed
 
 			img {
-				display: block;
-				margin: 0 auto;
-				margin-bottom: 8px;
+				margin-right: .3rem; // Adjust the spacing between the image and text as needed
 			}
 
 			a {
 				text-decoration: none;
-				color: #000000;
+				color: inherit;
+                display: flex;
+                align-items: center; // Ensure the text inside the link is centered
 			}
 		}
 	}
 }
+
+// OLD .post_list {
+// 	width: 70.2%;
+// 	margin: 0 auto;
+// 	min-height: 250px;
+// 	max-height: 250px;
+// 	overflow-y: scroll;
+// 	display: inline-block;
+
+// 	ul {
+// 		list-style: none;
+
+// 		li {
+// 			display: inline-block;
+// 			margin: 10px;
+// 			max-width: 16ch;
+// 			overflow: hidden;
+// 			text-overflow: ellipsis;
+// 			white-space: nowrap;
+// 			text-align: center;
+
+// 			img {
+// 				display: block;
+// 				margin: 0 auto;
+// 				margin-bottom: 8px;
+// 			}
+
+// 			a {
+// 				text-decoration: none;
+// 				color: #000000;
+// 			}
+// 		}
+// 	}
+// }
+
 .tag_list {
 	width: 28%;
 	margin: 0 auto;
