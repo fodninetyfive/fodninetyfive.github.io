@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Soft Sleep - Unravel
+title: Soft Sleep - Unravel (7inch artwork, design, and layout)
 tags: creative
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: wesingintime.com
+title: wesingintime.com (website for my live recordings of The Lonely Forest)
 tags: creative
 ---
 

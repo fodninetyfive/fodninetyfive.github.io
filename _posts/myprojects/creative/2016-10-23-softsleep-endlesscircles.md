@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Soft Sleep - Endless Circles
+title: Soft Sleep - Endless Circles (LP design and layout)
 tags: creative
 ---
 
