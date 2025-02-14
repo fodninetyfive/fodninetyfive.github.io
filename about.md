@@ -5,22 +5,37 @@ tags: none
 ---
 
 # hi - i'm Christian. thanks for visiting. 
-
+<br>
 i thrive on putting things together that bring joy to people. whether it's something as big as a 400 GB project folder or as small as an email, **my goal is to leave a lasting, positive impact**.
 
 i have a tendency to latch onto weird / overlooked / "someone should do this"-type-projects. i often find that the best ideas are the ones you figured someone might have already done but didn't. a lot of the time those things don't get done because it's a **weird amount of effort** to find all of the pieces of a puzzle, let alone put them together.
 
 every task deserves thoughtful execution. **i take pride in the odds and ends**, ensuring that the necessary steps are taken to ensure the output stands the test of time. i trust my instincts. i have a knack for foresight enriched by anxiety and overthinking. my ability to think through outcomes and plan for workarounds is a force to be reckoned with. **creative problem solving is my favorite thing in the world**.
+<br>
 
 ***
-here are some links that i'm going to find better ways to integrate soon™:<br>
-<a href="https://bsky.app/profile/fireworksordie.com" target="_blank">Bluesky</a>
-<a href="https://github.com/fireworksordie" target="_blank">GitHub</a>
-<a href="https://www.printables.com/@fireworksordie" target="_blank">Printables</a>
+<br>
+here are some links that i'm going to find better ways to integrate soon™:
+<br>
+<br>
+professional:
+<a href="https://www.linkedin.com/in/cmd0328/" target="_blank">LinkedIn</a>
+<br>
+resumes:
+<a href="/assets/pdf/2025-02-cmd-resume-media-creative-np.pdf" target="_blank">Creative</a> /
+<a href="/assets/pdf/2025-02-cmd-resume-infosec-tech-np.pdf" target="_blank">Tech</a>
+<br>
+social:
+<a href="https://bsky.app/profile/fireworksordie.com" target="_blank">Bluesky</a> /
+<a href="https://github.com/fireworksordie" target="_blank">GitHub</a> /
+<a href="https://www.printables.com/@fireworksordie" target="_blank">Printables</a> 
+<br>
+creative:
 <a href="https://soundcloud.com/fireworksordie" target="_blank">SoundCloud</a>
+<br>
 
 ***
-
+<br>
 there is a fireworksordie livejournal account that i've only just discovered while googling for more accounts of mine to add here. and while it ***isn't me***, and i ***won't be linking to it***, it is without a doubt someone else who, 20 years ago, also thought that the graffiti mentioned in the 2003 Strong Bad Email "2 years" was awesome:
 
 <a href="https://youtu.be/d7eePF65T8o?t=76" target="_blank"> <img src="/assets/images/2years.jpg" alt="cover" class="yc-img"> </a>
