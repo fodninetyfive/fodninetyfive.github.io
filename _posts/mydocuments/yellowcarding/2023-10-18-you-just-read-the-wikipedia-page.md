@@ -18,7 +18,7 @@ Ray whipped the needle up, shooting him a look as she barked back: “You didn't
 
 "Kenny's been really putting in work, Ber. Be a fucking human being and spare 3 minutes of your Tuesday. You know how much it would mean to him."
 
-What did she know? She didn't have his taste for gold records - she wasn't the CEO of Motown! But she had a persistence he'd always admired. He couldn't help himself - that look, as stern as it was, was a time machine. The confidence in her eyes twisted his stomach into knots the way it had all those years ago. Helpless, he relented.
+What did she know? She didn't have his taste for gold records—she wasn't the CEO of Motown! But she had a persistence he'd always admired. He couldn't help himself—that look, as stern as it was, was a time machine. The confidence in her eyes twisted his stomach into knots the way it had all those years ago. Helpless, he relented.
 
 "Fine. Start it again from the top. But I'm way too hungry to wait any longer."
 
@@ -26,9 +26,9 @@ Berry took a bite as Ray set the needle down. Warm, crisp crackles emanated from
 
 "Rrreh thmis fmucking suhnks!" He could barely get his point out mid-mastication but the intent was clear. She turned the knob clockwise, drowning him out with that unrefined synthesizer straight out of a horror flick. His son's enunciation was clear even through the vocoder. The only thing keeping him sane was the sourdough in his immediate future.
 
-As the lyrics floated in aimlessly he daydreamed, directing his attention to the window. If he just took one more bite and darted this could all be over. The responsibility, the expectations - all of it. He remembered when life was simpler, so young and in love. A far throw from the ass-kissing and the hopeful eyes he had to deliver bad news to every day.
+As the lyrics floated in aimlessly he daydreamed, directing his attention to the window. If he just took one more bite and darted this could all be over. The responsibility, the expectations—all of it. He remembered when life was simpler, so young and in love. A far throw from the ass-kissing and the hopeful eyes he had to deliver bad news to every day.
 
-As if the beam of a lighthouse had pierced the cold, wet, dark, foggy, depressing, concerning horizon, Berry was forced out of his fantasy by a high tenor. Bits of moist, mediumly-chewed bread dribbled out of his mouth as it widened in awe. The tones were so angelic - he could barely compose himself as his glutes involuntarily boosted his ass out of his chair with spring-loaded action. His index finger sprung from the remainder of his ham & swiss to the stereo like he’d just unwillingly bore witness to a crime. Meat and cheese and bread flew across the room.
+Then—as if the beam of a lighthouse had pierced the cold, wet, dark, foggy, depressing, concerning horizon—Berry was forced out of his fantasy by a high tenor. Bits of moist, mediumly-chewed bread dribbled out of his mouth as it widened in awe. The tones were so angelic—he could barely compose himself as his glutes involuntarily boosted his ass out of his chair with spring-loaded action. His index finger sprung from the remainder of his ham & swiss to the stereo like he’d just unwillingly bore witness to a crime. Meat and cheese and bread flew across the room.
 
 “IS THAT THE FUCKING KING OF POP?!”
 

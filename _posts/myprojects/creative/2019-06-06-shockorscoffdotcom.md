@@ -89,4 +89,4 @@ Ultimately, despite its success, ShockORScoff remained a one-time project due to
 
 **ShockORScoff.com remains a high point in my creative experiences and an exciting example of digital engagement, viral content, and community-driven design—demonstrating the impact of strategic creative vision.**
 
-A read-only version of the site lives on at [ShockORScoff.com](https://shockorscoff.com)
+A read-only version of the site lives on at [ShockORScoff.com](https://shockorscoff.com).

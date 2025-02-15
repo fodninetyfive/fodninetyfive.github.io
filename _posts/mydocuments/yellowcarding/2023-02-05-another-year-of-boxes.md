@@ -12,11 +12,11 @@ tags: yellowcarding
 
 <img src="../assets/images/yc/20230205/boxes.jpg" alt="box." class="yc-img">
 
-my room has been a special kind of mess for the last couple months. i went drearily into the holidays thinking it would be a great time to pull everything out, take stock, reorganize, and shed dead weight. i didn’t really unpack last year - just found nooks for all the odds and ends i’d moved from Chicago. not unusual, really.
+my room has been a special kind of mess for the last couple months. i went drearily into the holidays thinking it would be a great time to pull everything out, take stock, reorganize, and shed dead weight. i didn’t really unpack last year—just found nooks for all the odds and ends i’d moved from Chicago. not unusual, really.
 
-i reorganize and put things in boxes to relax. it makes me feel like i’m accomplishing something, even though i’m mostly just shifting it around. backpacks with pockets inside of the pockets, carrying cases, storage solutions - i can’t get enough of them. especially if they’re modular or stackable like a fucking megazord.
+i reorganize and put things in boxes to relax. it makes me feel like i’m accomplishing something, even though i’m mostly just shifting it around. backpacks with pockets inside of the pockets, carrying cases, storage solutions—i can’t get enough of them. especially if they’re modular or stackable like a fucking megazord.
 
-there are things i’ve had in boxes for years that i’m super excited about. as long as i have literally any other thing i should be doing instead - which all the time, apparently - they’ll be there forever. when i get something new, i play with it for an hour or two and put it in its container. i’m usually hoping i’ll be motivated enough to dig back into it later that night, or tomorrow. but it’s found its place among the things now.
+there are things i’ve had in boxes for years that i’m super excited about. as long as i have literally any other thing i should be doing instead—which all the time, apparently—they’ll be there forever. when i get something new, i play with it for an hour or two and put it in its container. i’m usually hoping i’ll be motivated enough to dig back into it later that night, or tomorrow. but it’s found its place among the things now.
 
 doing anything without the promise of measurable personal improvement or forward momentum these days has felt challenging and unearned. it’s a dumb metric to measure by, because who cares? maybe enjoy your free time, bozo? i’ve got a lot of free time, and i spend a lot of it _feeling bad about spending my free time_.
 
@@ -26,11 +26,11 @@ once i drop whatever it is that day, it’s just another gently used, someday th
 
 * * *
 
-it’s officially been a year since i moved to Minneapolis. the year’s good day count was _off the charts_ compared to the better part of the last decade, and i’m immensely grateful for that. i met new people! some of them are sticking - it’s all you can ask for. i started dating again with a motivation i haven’t had for a good chunk of the decade. it’s been okay! i made a new best friend. i leaned on my friends a lot. i love my friends. it gets kind of crazy to think about how there are people in my life now that i think about every day _that i didn’t even know existed last year_. it’s rad, and scary, and reassuring when days feel grey.
+it’s officially been a year since i moved to Minneapolis. the year’s good day count was _off the charts_ compared to the better part of the last decade, and i’m immensely grateful for that. i met new people! some of them are sticking—it’s all you can ask for. i started dating again with a motivation i haven’t had for a good chunk of the decade. it’s been okay! i made a new best friend. i leaned on my friends a lot. i love my friends. it gets kind of crazy to think about how there are people in my life now that i think about every day _that i didn’t even know existed last year_. it’s rad, and scary, and reassuring when days feel grey.
 
-i’m trying to be thankful for people no longer in my orbit. i’m continuing to learn things about myself, like how i’m the kind of person who would rather have a kool-aid-man-esque hole in my memories and a bad aftertaste than feel like i’m spending energy on someone who doesn’t return or appreciate it. it’s OK - i’m very flawed and i am absolutely not everyone’s jam. but it hurts when realization recontextualizes things you held close.
+i’m trying to be thankful for people no longer in my orbit. i’m continuing to learn things about myself, like how i’m the kind of person who would rather have a kool-aid-man-esque hole in my memories and a bad aftertaste than feel like i’m spending energy on someone who doesn’t return or appreciate it. it’s OK—i’m very flawed and i am absolutely not everyone’s jam. but it hurts when realization recontextualizes things you held close.
 
-my days mostly don’t get too dark, but there are some where it’s not so easy to smile and look forward. it’s reassuring to know it’s not just like that for me. i’ve got an appointment with a brain doctor in the hopes of figuring out why mine fights me. i’m eager to become a version of me who doesn’t interrupt myself 17 times to get through a task or thought process. i’d love to not feel guilty spending time doing things, especially if those things seem like they could be a lot of fun. it would be nice to have clean dishes because i took the time to load the wash because my room was already clean because i wasn’t laying on the couch wondering what i should do that feels like it can be accomplished. i’ve got so many neat things in boxes that i’ve just been waiting to dig into, man - let me at ‘em! _please_.
+my days mostly don’t get too dark, but there are some where it’s not so easy to smile and look forward. it’s reassuring to know it’s not just like that for me. i’ve got an appointment with a brain doctor in the hopes of figuring out why mine fights me. i’m eager to become a version of me who doesn’t interrupt myself 17 times to get through a task or thought process. i’d love to not feel guilty spending time doing things, especially if those things seem like they could be a lot of fun. it would be nice to have clean dishes because i took the time to load the wash because my room was already clean because i wasn’t laying on the couch wondering what i should do that feels like it can be accomplished. i’ve got so many neat things in boxes that i’ve just been waiting to dig into, man—let me at ‘em! _please_.
 
 * * *
 
@@ -48,7 +48,7 @@ i packed this one with everything i keep with me. front of mind. on my person. c
 
   **The 1975 and *Being Funny in a Foreign Language***
 
-  * _BFIAFL_ didn’t even come out until the fall of 2022 but i’ve been [absolutely mainlining it since](https://www.last.fm/user/fireworksordie). i’ve never been so amped about a band that multiple friends have made a point of telling me they “don’t get”. look - i don’t know what it is that i am getting from it that others aren’t. The 1975 is not trying to reinvent the wheel - they’d be the first to admit it (and have on multiple occasions). there’s an earnesty to it all that i find myself very attached to. literally the only reason i have TikTok installed is so my bestie Bri can send me Matty Healy content. i finally got to see them live in December and i don’t think i’ve moved like that at a show before. just a couple hours of deep groovin’ in a pocket of a sea of bodies in The Armory. bop your head. have fun. it’s good.
+  * _BFIAFL_ didn’t even come out until the fall of 2022 but i’ve been [absolutely mainlining it since](https://www.last.fm/user/fireworksordie). i’ve never been so amped about a band that multiple friends have made a point of telling me they “don’t get”. look: i don’t know what it is that i am getting from it that others aren’t. The 1975 is not trying to reinvent the wheel—they’d be the first to admit it (and have on multiple occasions). there’s an earnesty to it all that i find myself very attached to. literally the only reason i have TikTok installed is so my bestie Bri can send me Matty Healy content. i finally got to see them live in December and i don’t think i’ve moved like that at a show before. just a couple hours of deep groovin’ in a pocket of a sea of bodies in The Armory. bop your head. have fun. it’s good.
 
   **Kyle Bosman’s Twitch streams and *Delayed Input***
 
@@ -95,7 +95,7 @@ i bought an absolute boatload of these bad boys last year before i moved. these 
 
   **Apple Music Sing**
 
-  * it’s so weird that there’s just [a feature built in to Apple Music now that will let you lower a song’s vocal track](https://www.apple.com/newsroom/2022/12/apple-introduces-apple-music-sing/). when they first announced it i was actually shocked. then i was trying to think about how they might be doing it and was really hopeful that they’d struck a weird deal with the labels to make the studio instrumentals available. it’s not that - it’s AI - but it does a an admirable to passable job, and it’s certainly way more accessible than running everything through Spleeter. it feels kinda messy and against artistic intent to be so touch-of-a-button available - which is one of the biggest reasons i never expected something like this existing - but i’m at least going to enjoy it for now!
+  * it’s so weird that there’s just [a feature built in to Apple Music now that will let you lower a song’s vocal track](https://www.apple.com/newsroom/2022/12/apple-introduces-apple-music-sing/). when they first announced it i was actually shocked. then i was trying to think about how they might be doing it and was really hopeful that they’d struck a weird deal with the labels to make the studio instrumentals available. it’s not that—it’s AI—but it does a an admirable to passable job, and it’s certainly way more accessible than running everything through Spleeter. it feels kinda messy and against artistic intent to be so touch-of-a-button available—which is one of the biggest reasons i never expected something like this existing—but i’m at least going to enjoy it for now!
 
   ***Poker Face***
 
@@ -111,11 +111,11 @@ i bought an absolute boatload of these bad boys last year before i moved. these 
 
   **Accutane**
 
-  * feels weird putting this one here. certainly not something i’d _like_ to go back for more of, but last year’s run was Round 2 - so i guess i’ve gotta be thankful and i’ve gotta be realistic.
+  * feels weird putting this one here. certainly not something i’d _like_ to go back for more of, but last year’s run was Round 2. so i guess i’ve gotta be thankful and i’ve gotta be realistic.
 
   **SOUTHLAND TALES**
 
-  * i’ve had this on the “get to it” list for years, but with the new 4K Blu-Ray release i finally gave it a proper shot. it’s a fever dream that takes itself too seriously but knows exactly how corny it is. you can make fun of this movie or get rattled and try to think too much about it - both make sense and aren’t unexpected coming from the dude who made _DONNIE DARKO_. it shares a level of prescience with _IDIOCRACY_ , though it’s nowhere near as easy or fun to watch. but i’m looking forward to watching it again.
+  * i’ve had this on the “get to it” list for years, but with the new 4K Blu-Ray release i finally gave it a proper shot. it’s a fever dream that takes itself too seriously but knows exactly how corny it is. you can make fun of this movie or get rattled and try to think too much about it—both make sense and aren’t unexpected coming from the dude who made _DONNIE DARKO_. it shares a level of prescience with _IDIOCRACY_ , though it’s nowhere near as easy or fun to watch. but i’m looking forward to watching it again.
 
   **new albums from Caroline Polachek, Westerman, and more**
 
@@ -138,7 +138,7 @@ i bought an absolute boatload of these bad boys last year before i moved. these 
 
 ## **the Donate Box**
 
-it doesn’t always feel very fun to talk down on things, especially when some of them are perfectly fine and just Not For Me. there have been a lot of those things these days - yes, don’t worry, [i know it might just be me](https://youtu.be/cLJrQj-ClMk?t=98)! but these are things that just didn’t really stick with me or that i could just do without, outright, thank you.
+it doesn’t always feel very fun to talk down on things, especially when some of them are perfectly fine and just Not For Me. there have been a lot of those things these days—yes, don’t worry, [i know it might just be me](https://youtu.be/cLJrQj-ClMk?t=98)! but these are things that just didn’t really stick with me or that i could just do without, outright, thank you.
 
   **GLASS ONION: A KNIVES OUT MYSTERY**
 
@@ -197,7 +197,7 @@ lastly, not at all leastly, i’ve got a bunch of stuff in here that i’m gonna
 
   **The Last of Us**
 
-  * i don’t get into zombies. i’m just never really seeking out Violent and Depressing Zombie-Focused Television. however, i did like playing through both The Last of Us games. the first one took me multiple years of attempts, picking up and putting down - see the stuff about games way above. the second one had me fully immersed, hooked, speechless, feeling a real certain way when it ended. but the zombies are my least favorite parts of these games, too, and in the games i just kinda cheat-sneak my way past the suspenseful stealth sections. for some reason that feels disingenuous to do that with a TV show. i made it halfway through the first episode and put it down - more than happy to agree that it’s a Very Well Done Show, it just also leans heavily towards Not for Me. but i’ve decided i’m going to get through it.
+  * i don’t get into zombies. i’m just never really seeking out Violent and Depressing Zombie-Focused Television. however, i did like playing through both The Last of Us games. the first one took me multiple years of attempts, picking up and putting down—see the stuff about games way above. the second one had me fully immersed, hooked, speechless, feeling a real certain way when it ended. but the zombies are my least favorite parts of these games, too, and in the games i just kinda cheat-sneak my way past the suspenseful stealth sections. for some reason that feels disingenuous to do that with a TV show. i made it halfway through the first episode and put it down—more than happy to agree that it’s a Very Well Done Show, it just also leans heavily towards Not for Me. but i’ve decided i’m going to get through it.
 
   **soldering**
 
