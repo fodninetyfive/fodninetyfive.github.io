@@ -12,7 +12,7 @@ i have a tendency to latch onto weird / overlooked / "someone should do this"-ty
 
 every task deserves thoughtful execution. **i take pride in the odds and ends**, ensuring that the necessary steps are taken to ensure the output stands the test of time. i trust my instincts. i have a knack for foresight enriched by anxiety and overthinking. my ability to think through outcomes and plan for workarounds is a force to be reckoned with. **creative problem solving is my favorite thing in the world**.
 
-i wish the em dash (—) had a dedicated keyboard button.
+i will forever be inconsistent about en and em dash usage. why do they not have dedicated keyboard buttons?
 <br>
 
 ***

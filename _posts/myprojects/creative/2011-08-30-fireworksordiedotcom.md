@@ -16,4 +16,4 @@ With this site in place I've redirected the URL to point here, but I've backed e
 
 <a href="/assets/images/myprojects/creative/20110830/wp1-1200-min.png" target="_blank"> <img src="/assets/images/myprojects/creative/20110830/wp1-1200-min.png" target="_blank" alt="fireworksordie.com page 1" class="yc-img"> </a>
 
-<a href="/assets/images/myprojects/creative/20110830/wp2-1200-min.png" target="_blank"> <img src="/assets/images/myprojects/creative/20110830/wp1-1200-min.png" target="_blank" alt="fireworksordie.com page 2" class="yc-img"> </a>
+<a href="/assets/images/myprojects/creative/20110830/wp2-1200-min.png" target="_blank"> <img src="/assets/images/myprojects/creative/20110830/wp2-1200-min.png" target="_blank" alt="fireworksordie.com page 2" class="yc-img"> </a>
