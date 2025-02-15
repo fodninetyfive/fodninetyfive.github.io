@@ -11,7 +11,7 @@ tools/skills used: github, HTML5, Pixelmator, iMovie, DaVinci Resolve, FFmpeg, A
 ****
 I'm John's *website guy*, and his site has changed a lot over the years.
 
-For the current version, he asked for something very simple: he wanted **a looping video of him sitting in the grass reading a magazine with birds chirping in the background**. I had an interesting time creating the video loop and audio loop and fiddling with what web browsers allow for autoplaying. I added a button to mute and unmute the audio which is muted by default in most cases. I also asked him to draw the buttons himself, which I then scanned and turned into the buttons you see on the page, which expand slightly when you hover over them. **Simple, fun, and tactile**. This iteration of the site is live over at [johnvandeusen.com](johnvandeusen.com).
+For the current version, he asked for something very simple: he wanted **a looping video of him sitting in the grass reading a magazine with birds chirping in the background**. I had an interesting time creating the video loop and audio loop and fiddling with what web browsers allow for autoplaying. I added a button to mute and unmute the audio which is muted by default in most cases. I also asked him to draw the buttons himself, which I then scanned and turned into the buttons you see on the page, which expand slightly when you hover over them. **Simple, fun, and tactile**. This iteration of the site is live over at [johnvandeusen.com](https://johnvandeusen.com).
 
 <a href="https://johnvandeusen.com" target="_blank"> <img src="/assets/images/myprojects/creative/20240723/jvddotcom.jpg" alt="johnvandeusen.com" class="yc-img"> </a>
 

@@ -30,7 +30,7 @@ Not long after the site launch, **Brendan reached out to me with the original ep
 
 Brendan and I have stayed in touch over the last 10 years—we follow each other on socials in that interesting, parasocial way. Every now and then I've reached out about the plan to pick things back up when I've had a little time here or there.
 
-<a href="assets/images/myprojects/creative/20250202/blshdproj.jpg" target="_blank"> <img src="/assets/images/myprojects/creative/20250202/blshdproj.jpg" alt="HD project" class="yc-img"> </a>
+<a href="/assets/images/myprojects/creative/20250202/blshdproj.jpg" target="_blank"> <img src="/assets/images/myprojects/creative/20250202/blshdproj.jpg" alt="HD project" class="yc-img"> </a>
 
 In the last couple months I've started experimenting with QTGMC, an encoding process that takes old, interlaced video like the Brendan Leonard Show masters I have (the entire series was shot on DV cameras) and deinterlaces the video to producing a higher resolution and accurately interpolated output. Combining that with some extremely conservative AI upscaling using Topaz Video AI to clear up the digital compression artifacts has produced an image that I'm actually pretty happy about—one of those "the way you remember it looking" situations. My end goal is to be able to share both the as-is master-quality version of the show for archival as well as a gently-upscaled version that looks a little nicer on the HD TVs we all have now.
 

@@ -6,7 +6,7 @@ tags: creative
 # ShockORScoff.com
 ## interactive fake betting website for video game event
 ****
-tools/skills used: github, jekyll, HTML5 Canvas2D, imgur.com API, Google Sheets API, Pixelmator, MSPaint 
+tools/skills used: GitHub, Jekyll, HTML5 Canvas2D, imgur.com API, Google Sheets API, Pixelmator, MSPaint 
 
 ****
 ## **Project Overview**
@@ -88,3 +88,5 @@ Ultimately, despite its success, ShockORScoff remained a one-time project due to
 - **Key Stakeholder Departure**: In March 2020, Kyle announced his departure from _Easy Allies_. Since he was the primary creative force behind the Betting Specials—and a key reason for my engagement with the group—I decided to end the project on a high note rather than continue without his involvement.
 
 **ShockORScoff.com remains a high point in my creative experiences and an exciting example of digital engagement, viral content, and community-driven design—demonstrating the impact of strategic creative vision.**
+
+A read-only version of the site lives on at [ShockORScoff.com](https://shockorscoff.com)
