@@ -89,6 +89,12 @@
         {% if page.title == 'me' or page.title == 'about' or page.title == '404...' %}
             <ul>
             </ul>
+        {% elsif page.title == 'index' %}
+            <ul>
+                {% for tag in site.data.tags %}
+                <li><a href="{{ tag.url }}" title="{{ tag.name }}"><img src="{{ tag.icon }}" title="{{ tag.name }}" />{{ tag.name }}</a></li>
+                {% endfor %}
+            </ul>        
         {% else %}
             {{ content }}
         {% endif %}
@@ -122,7 +128,31 @@
  -->            <div class="right">&nbsp;</div>
         </div>
     </div>
-    {% if page.title and page.layout != "tag" %}
+    {% if page.title == 'index' %}
+        <div class="content">
+            <ul class="topbar">
+                <li>You're <u>H</u>ome: welcome to the (C:) Drive.</li>
+            </ul>
+            <div class="post_content">
+                {{ content }}
+                {% if page.title %}
+                    {% include donate.html %}
+                {% endif %}
+            </div>
+        </div>
+    {% elsif page.title == 'about' %}
+        <div class="content">
+            <ul class="topbar">
+                <li><u>A</u>bout</li>
+            </ul>
+            <div class="post_content">
+                {{ content }}
+                {% if page.title %}
+                    {% include donate.html %}
+                {% endif %}
+            </div>
+        </div>
+    {% elsif page.title and page.layout != "tag" %}
         <div class="content">
             <div class="post_title">
                 <img src="/assets/img/file.png" />
