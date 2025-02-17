@@ -86,15 +86,12 @@
         </div>
  <div class="post_list">
     {% unless page.date %}
-        {% if page.title == 'me' or page.title == 'about' or page.title == '404...' %}
-            <ul>
-            </ul>
-        {% elsif page.title == 'index' %}
-            <ul>
-                {% for tag in site.data.tags %}
-                <li><a href="{{ tag.url }}" title="{{ tag.name }}"><img src="{{ tag.icon }}" title="{{ tag.name }}" />{{ tag.name }}</a></li>
-                {% endfor %}
-            </ul>        
+        {% if page.title == 'me' or page.title == 'index' or page.title == 'about' or page.title == '404...' %}
+        <ul>
+            {% for tag in site.data.tags %}
+            <li><a href="{{ tag.url }}" title="{{ tag.name }}"><img src="{{ tag.icon }}" title="{{ tag.name }}" />{{ tag.name }}</a></li>
+            {% endfor %}
+        </ul>        
         {% else %}
             {{ content }}
         {% endif %}
