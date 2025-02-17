@@ -3,6 +3,23 @@
     height: auto;
 }
 
+.header-container {
+    display: flex;
+    align-items: flex-start; /* Aligns text and image at the top */
+    gap: 15px; /* Adds space between logo and text */
+    flex-wrap: wrap; /* Ensures it stacks properly on smaller screens */
+}
+
+.logo {
+    width: 125px;
+    height: auto;
+    padding: 5px 0 0 5px;
+}
+
+.text-content {
+    flex: 1; /* Ensures the text takes up the remaining space and doesn’t wrap around */
+    min-width: 200px; /* Prevents text from becoming too narrow on mobile */
+}
 
 body {
 	background: #008082;
