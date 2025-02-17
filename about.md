@@ -4,7 +4,7 @@ title: about
 tags: none
 ---
 
-# hi— i'm Christian. thanks for visiting. 
+# hi— i'm Christian. thanks for visiting!<br>if you want to go straight to my creative portfolio, click <a href="https://cdrive.site/myprojects/creative/">here</a>.
 <br>
 i thrive on putting things together that bring joy to people. whether it's something as big as a 400 GB project folder or as small as an email, **my goal is to leave a lasting, positive impact**.
 
@@ -21,28 +21,19 @@ here are some links that i'm going to find better ways to integrate soon™:
 <br>
 <br>
 professional:
-<a href="https://www.linkedin.com/in/cmd0328/" target="_blank">LinkedIn</a>
-<br>
-resumes:
-<a href="/assets/pdf/2025-02-cmd-resume-media-creative-np.pdf" target="_blank">Creative</a> /
-<a href="/assets/pdf/2025-02-cmd-resume-infosec-tech-np.pdf" target="_blank">Tech</a>
+<a href="https://www.linkedin.com/in/cmd0328/" target="_blank">LinkedIn</a> /
+<a href="https://cdrive.site/myprojects/creative">Creative Portfolio</a> /
+<a href="/assets/pdf/2025-02-cmd-resume-media-creative-np.pdf" target="_blank">Resume (Creative)</a> /
+<a href="/assets/pdf/2025-02-cmd-resume-infosec-tech-np.pdf" target="_blank">Resume (Tech)</a>
 <br>
 social:
-<a href="https://bsky.app/profile/fireworksordie.com" target="_blank">Bluesky</a> /
-<a href="https://github.com/fireworksordie" target="_blank">GitHub</a> /
-<a href="https://www.printables.com/@fireworksordie" target="_blank">Printables</a> 
+<a href="https://bsky.app/profile/fireworksordie.com" target="_blank">Bluesky</a>
 <br>
-creative:
+digital:
+<a href="https://github.com/fireworksordie" target="_blank">GitHub</a> /
+<a href="https://www.printables.com/@fireworksordie" target="_blank">Printables</a> /
 <a href="https://soundcloud.com/fireworksordie" target="_blank">SoundCloud</a>
 <br>
-
-***
-<br>
-there is a fireworksordie livejournal account that i've only just discovered while googling for more accounts of mine to add here. and while it ***isn't me***, and i ***won't be linking to it***, it is without a doubt someone else who, 20 years ago, also thought that the graffiti mentioned in the 2003 Strong Bad Email "2 years" was awesome:
-
-<a href="https://youtu.be/d7eePF65T8o?t=76" target="_blank"> <img src="/assets/images/2years.jpg" alt="cover" class="yc-img"> </a>
-
-they curse *way more* than i do, holy cow. and unlike them, i still haven't watched *Mulholland Dr.* (absolutely need to change that) or *American Beauty* (in less of a rush to watch this one), and i'm not obsessed with someone named Spencer. but i do wonder if they're the same person who took my username on the Playstation Network years ago, **forcing me to go with "fireworksordie_" like a *total loser***.
 
 ***
 <br>
