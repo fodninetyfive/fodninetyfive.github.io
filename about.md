@@ -37,4 +37,4 @@ digital:
 
 ***
 <br>
-the website you are looking at right now is constantly under construction (kind of like Strong Badia) but always under the same management: me. the site has been hacked to bits from a neat little Windows 95ish theme by <a href="http://github.com/h01000110" target="_blank">h01000110 (hi)</a> provided under an <a href="https://github.com/h01000110/h01000110.github.io/blob/master/LICENSE" target="_blank">MIT License</a>. i recently decided to give it a little Windows XP spin, and i hope you enjoy it as much as i do. XP was *the best*. fight me.
+the website you are looking at right now is constantly under construction but always under the same management: me. the site has been hacked to bits from a neat little Windows 95ish theme by <a href="http://github.com/h01000110" target="_blank">h01000110 (hi)</a> provided under an <a href="https://github.com/h01000110/h01000110.github.io/blob/master/LICENSE" target="_blank">MIT License</a>. i recently decided to give it a little Windows XP spin, and i hope you enjoy it as much as i do. XP was the best. *fight me*.
