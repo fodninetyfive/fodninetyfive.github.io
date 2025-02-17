@@ -112,8 +112,16 @@
         <ul>
             {% for post in site.posts %}
                 {% if post.tags contains current_subtag %}
-                <li><a href="{{ post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
-                {% endif %}
+                <li>
+                    <a href="{{ post.url }}" title="{{ post.title }}">
+                        <img src="/assets/img/file.ico" title="{{ post.title }}" />
+                        <span class="post_list_content">
+                            <span class="post_list_title">{{ post.title }}</span>
+                            <span class="post_list_date">{{ post.date | date: '%Y/%m/%d' }}</span>
+                        </span>
+                    </a>
+                </li>
+                    {% endif %}
             {% endfor %}
         </ul>
     {% endunless %}

@@ -101,34 +101,50 @@ ul.topbar {
 	border-color: #7f787f #fff8ff #fff8ff #7f787f;
 }
 .post_list {
-	width: 70.2%;
-	margin: 0 auto;
-	min-height: 210px;
-	max-height: 210px;
-	overflow-y: scroll;
-	display: inline-block;
+    width: 70.2%;
+    margin: 0 auto;
+    min-height: 210px;
+    max-height: 210px;
+    overflow-y: scroll;
+    display: inline-block;
 
-	ul {
-		list-style: none;
-		padding: 6px;
+    ul {
+        list-style: none;
+        padding: 6px;
 
-		li {
-			display: flex;
-			align-items: center;
-			margin-bottom: 1rem; // Adjust the spacing between list items as needed
+        li {
+            display: flex;
+            align-items: flex-start; /* Ensures alignment of img and text */
+            margin-bottom: 1rem; /* Spacing between list items */
+        }
 
-			img {
-				margin-right: .3rem; // Adjust the spacing between the image and text as needed
-			}
+        a {
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            align-items: center; /* Keeps text and image aligned */
+        }
 
-			a {
-				text-decoration: none;
-				color: inherit;
-                display: flex;
-                align-items: center; // Ensure the text inside the link is centered
-			}
-		}
-	}
+        img {
+            margin-right: 0.5rem; /* Space between image and text */
+        }
+
+        .post_list_content {
+            display: flex;
+            flex-direction: column; /* Stack title and date */
+            line-height: 1.2; /* Adjust spacing */
+        }
+
+        .post_list_title {
+            display: block; /* Ensures it's on its own line */
+        }
+
+        .post_list_date {
+            font-size: 0.7rem; /* Smaller text for the date */
+            color: gray; /* Subtle color */
+			padding-top: 2px;
+        }
+    }
 }
 
 // OLD .post_list {
