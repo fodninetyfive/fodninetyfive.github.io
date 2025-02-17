@@ -11,8 +11,9 @@ title: index
 
 <hr style="height:2px; visibility:hidden;" />
 
-if you're looking for my **creative portfolio**, \
-it lives at [My Projects\creative](https://cdrive.site/myprojects/creative/).  
+if you're looking for my **portfolio**, \
+it lives at [My Projects\creative](https://cdrive.site/myprojects/creative/).
+
 i've also [migrated my Substack](https://cdrive.site/20220929/yellowcarding) \
 to [My Documents\yellowcarding](https://cdrive.site/mydocuments/yellowcarding/).
         {% endcapture %}
