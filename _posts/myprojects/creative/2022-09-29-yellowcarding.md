@@ -1,10 +1,10 @@
 ---
 layout: default
-title: yellowcarding.substack.com - a Substack newsletter inpsired by obsession
+title: yellowcarding.substack.com - a Substack newsletter inspired by obsession
 tags: creative
 ---
 # yellowcarding.substack.com
-## a Substack newsletter inpsired by obsession
+## a Substack newsletter inspired by obsession
 ****
 tools/skills used: creative writing, weird brain
 
