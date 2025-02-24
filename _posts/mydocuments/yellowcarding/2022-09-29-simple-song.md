@@ -9,8 +9,116 @@ tags: yellowcarding
 ## The Shins, bridge clubs, having fun, and Frindle
 
 ****
+<style>
+/* Main Player Container */
+#wmp-player {
+    width: 180px;
+    background: url('../assets/img/backg.png') no-repeat center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 6px 2px 6px 2px;
+    border-radius: 12px;
+    box-shadow: inset 0 0 8px rgba(0,0,0,0.4);
+}
 
-i’ve been yellowcarding “Simple Song” since i saw The Shins a few weeks ago. 
+/* Play/Pause Button */
+#play-btn {
+    width: 40px;
+    height: 40px;
+    background: url('../assets/img/play.png') no-repeat center;
+    background-size: contain;
+    border: none;
+    cursor: pointer;
+}
+
+/* Seek Bar */
+#seekbar {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 100px;  /* Ensure consistent width */
+    height: 12px;  /* Explicit height */
+    background: url('../assets/img/seekbar.png') no-repeat center;
+    background-size: contain;
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+}
+
+/* WebKit Browsers (Chrome, Safari, Edge) */
+#seekbar::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    background: url('../assets/img/nub.png') no-repeat center;
+    background-size: contain;
+    cursor: pointer;
+    border: none;
+}
+
+/* Firefox */
+#seekbar::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    background: url('../assets/img/nub.png') no-repeat center;
+    background-size: contain;
+    cursor: pointer;
+    border: none;
+}
+
+/* Firefox - Fix Weird Default Track Styling */
+#seekbar::-moz-range-track {
+    width: 100px;
+    height: 12px;
+    background: url('../assets/img/seekbar.png') no-repeat center;
+    background-size: contain;
+    border-radius: 3px;
+}
+
+</style>
+
+<div id="wmp-player">
+    <button id="play-btn"></button>
+    <input id="seekbar" type="range" value="0" max="100" step="0.1">
+    <audio id="audio" src="https://cdave.stream/webamp/simplesong.mp3"></audio>
+</div>
+<hr style="height:2px; visibility:hidden;" />
+
+<script>
+    const audio = document.getElementById("audio");
+    const playBtn = document.getElementById("play-btn");
+    const seekBar = document.getElementById("seekbar");
+
+    playBtn.addEventListener("click", function () {
+        if (audio.paused) {
+            audio.play();
+            playBtn.style.backgroundImage = "url('../assets/img/pause.png')";
+        } else {
+            audio.pause();
+            playBtn.style.backgroundImage = "url('../assets/img/play.png')";
+        }
+    });
+
+    audio.addEventListener("timeupdate", function () {
+        const progress = (audio.currentTime / audio.duration) * 100;
+        seekBar.value = progress;
+    });
+
+    seekBar.addEventListener("input", function () {
+        const newTime = (seekBar.value / 100) * audio.duration;
+        audio.currentTime = newTime;
+    });
+
+    audio.addEventListener("ended", function () {
+        playBtn.style.backgroundImage = "url('../assets/img/play.png')";
+        seekBar.value = 0;
+    });
+</script>
+
+i’ve been yellowcarding “Simple Song” since i saw The Shins a few weeks ago.
 
 OK, technically before—i had peeked at the prior nights’ setlists and saw it was a set ender for them (pre-encore, _but still_ ) and like… yeah. yeah it is. it’s the best!
 
