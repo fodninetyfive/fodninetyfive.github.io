@@ -170,6 +170,6 @@ one of my best friends had never even heard of _Frindle_. don’t embarass me, n
 
 <img src="../assets/images/yc/20220929/frindle.jpg" class="yc-img">
 
- **yellowcarding** \—in this context, right now, for me—is active fixation. when i can’t stop thinking about / processing / consuming a song. or an album. or a movie? art. content. an idea. a problem. a frustration. no matter what, i’m buckled up for the ride. i don’t want off the ride. “again”, i think. listening to “Ocean Avenue” over and over and over. i can’t get enough. i’m not sure i ever will. 
+ **yellowcarding**—in this context, right now, for me—is active fixation. when i can’t stop thinking about / processing / consuming a song. or an album. or a movie? art. content. an idea. a problem. a frustration. no matter what, i’m buckled up for the ride. i don’t want off the ride. “again”, i think. [listening to “Ocean Avenue” over and over and over.](https://cdrive.site/20220929/yellowcarding) i can’t get enough. i’m not sure i ever will. 
 
 i’ve been yellowcarding “Simple Song” this whole time and it still feels fresh. that’s the stuff!
