@@ -12,14 +12,14 @@ title: index
         {{ markdown_content | markdownify }}
 <hr style="height:2px; visibility:hidden;" />
 <ul>
-<li><strong>resume</strong>: 
+<li>my <strong>resume</strong>: 
 <a href="https://cdrive.site/assets/pdf/2025-02-cmd-resume-infosec-tech-np.pdf"><img height="16px" width="16px" src="/assets/img/file.ico">tech</a>
 <a href="https://cdrive.site/assets/pdf/2025-02-cmd-resume-media-creative-np.pdf"><img height="16px" width="16px" src="/assets/img/file.ico">creative</a> 
 </li>
-<li><strong>portfolio</strong>: 
+<li>my <strong>portfolio</strong>: 
 <a href="https://cdrive.site/myprojects/creative/"><img height="16px" width="16px" src="/assets/img/xp_folder.ico">creative</a>
 </li>
-<li><strong>writing</strong>: 
+<li>my <strong>writing</strong>: 
 <a href="https://cdrive.site/mydocuments/yellowcarding/"><img height="16px" width="16px" src="/assets/img/xp_folder.ico">yellowcarding</a>
 </li>
 </ul>
