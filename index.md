@@ -13,8 +13,8 @@ title: index
 <hr style="height:2px; visibility:hidden;" />
 <ul>
 <li>my <strong>resume</strong>: 
-<a href="https://cdrive.site/assets/pdf/2025-02-cmd-resume-infosec-tech-np.pdf"><img height="16px" width="16px" src="/assets/img/file.ico">tech</a>
-<a href="https://cdrive.site/assets/pdf/2025-02-cmd-resume-media-creative-np.pdf"><img height="16px" width="16px" src="/assets/img/file.ico">creative</a> 
+<a href="https://cdrive.site/assets/pdf/2025-05-cmd-resume-infosec-tech.pdf"><img height="16px" width="16px" src="/assets/img/file.ico">tech</a>
+<a href="https://cdrive.site/assets/pdf/2025-05-cmd-resume-media-creative.pdf"><img height="16px" width="16px" src="/assets/img/file.ico">creative</a> 
 </li>
 <li>my <strong>portfolio</strong>: 
 <a href="https://cdrive.site/myprojects/creative/"><img height="16px" width="16px" src="/assets/img/xp_folder.ico">creative</a>
