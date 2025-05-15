@@ -10,8 +10,8 @@ professional:
 <ul>
     <li><a href="https://www.linkedin.com/in/cmd0328/" target="_blank">LinkedIn</a></li>
     <li><a href="https://cdrive.site/myprojects/creative">Creative Portfolio</a> (on this site)</li>
-    <li><a href="/assets/pdf/2025-02-cmd-resume-media-creative-np.pdf" target="_blank">Resume (Creative)</a></li>
-    <li><a href="/assets/pdf/2025-02-cmd-resume-infosec-tech-np.pdf" target="_blank">Resume (Tech)</a></li>
+    <li><a href="/assets/pdf/2025-05-cmd-resume-media-creative.pdf" target="_blank">Resume (Media & Creative)</a></li>
+    <li><a href="/assets/pdf/2025-05-cmd-resume-infosec-tech.pdf" target="_blank">Resume (Infosec & Tech)</a></li>
 </ul>
 
 social:
