@@ -1,0 +1,18 @@
+{% assign has_subtag = false %}
+{% assign tag_name = site.name %}
+{% assign tag_icon = "/assets/img/mycomputer.png" %}
+{% for tag in site.data.tags %}
+    {% if page.url == tag.url %}
+        {% assign tag_name = tag.name %}
+        {% assign tag_icon = tag.icon %}
+    {% endif %}
+    {% if tag.sub_tags %}
+        {% for sub_tag in tag.sub_tags %}
+            {% if page.url == sub_tag.url or page.tags contains sub_tag.name %}
+                {% assign has_subtag = true %}
+                {% assign tag_name = sub_tag.name %}
+                {% assign tag_icon = sub_tag.icon %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}

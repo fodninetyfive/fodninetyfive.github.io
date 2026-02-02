@@ -1,3 +1,19 @@
+// Color variables
+$color-page-bg: #008082;
+$color-panel-bg: #C9C4C3;
+$color-white: #ffffff;
+$color-black: #000000;
+$color-title-text: #E4E1E1;
+$color-button-bg: #cccccc;
+$color-border-inset: #7f787f;
+$color-link: #0000ff;
+$color-border-dark: #888888;
+$color-border-light: #dadada;
+$color-hr: #333333;
+$color-table-border: #222222;
+$color-footer-link: #24244a;
+$color-scrollbar-corner: #cacaca;
+
 .yc-img {
     max-width: 100%;
     height: auto;
@@ -22,7 +38,7 @@
 }
 
 body {
-	background: #008082;
+	background: $color-page-bg;
 	font-family: sans-serif, serif, monospace;
 	font-size: 13px;
 }
@@ -31,9 +47,9 @@ body {
 	width: 800px;
 	margin: auto;
 	margin-top: 20px;
-	background: #C9C4C3;
+	background: $color-panel-bg;
 	border: 2px solid;
-	border-color: #ffffff #000000 #000000 #ffffff;
+	border-color: $color-white $color-black $color-black $color-white;
 	padding: 2px 0;
 }
 .default_title, .post_title {
@@ -41,7 +57,7 @@ body {
 	position: relative;
 
 	h1 {
-		color: #E4E1E1;
+		color: $color-title-text;
 		font-size: 14px;
 		font-weight: bold;
 	}
@@ -59,16 +75,16 @@ body {
 	}
 
 	a {
-		color: #000000;
+		color: $color-black;
 	}
 
 	.btn {
-		background: #cccccc;
+		background: $color-button-bg;
 		width: 13px;
 		height: 11px;
 		float: right;
 		border: 2px solid;
-		border-color: #ffffff #000000 #000000 #ffffff;
+		border-color: $color-white $color-black $color-black $color-white;
 
 		span {
 			font-size: 11px;
@@ -108,14 +124,14 @@ ul.topbar {
 	}
 	a {
 		text-decoration: none;
-		color: #000000;
+		color: $color-black;
 	}
 }
 .post_list, .tag_list, .post_content {
-	background: #ffffff;
+	background: $color-white;
 	border-width: 2px;
 	border-style: ridge groove groove ridge;
-	border-color: #7f787f #ffffff #ffffff #7f787f;
+	border-color: $color-border-inset $color-white $color-white $color-border-inset;
 }
 .post_list {
     width: 70.2%;
@@ -218,7 +234,7 @@ ul.topbar {
 
 	a {
 		text-decoration: none;
-		color: #000000;
+		color: $color-black;
 	}
 
 	ul {
@@ -237,7 +253,7 @@ ul.topbar {
     padding:0 0 0 2px;
 }
 #tag-list li a {
-    background: #ffffff;
+    background: $color-white;
     display:block;
 }
 #tag-list li ul li {
@@ -248,7 +264,7 @@ ul.topbar {
 .post_total {
 	.left, .right {
 		border: 1px solid;
-		border-color: #888888 #dadada #dadada #888888;
+		border-color: $color-border-dark $color-border-light $color-border-light $color-border-dark;
 		display: inline-block;
 		padding: 1px 3px;
 	}
@@ -277,7 +293,7 @@ ul.topbar {
 	}
 
 	a {
-		color: #0000ff;
+		color: $color-link;
 		margin-bottom: 15px;
 	}
 
@@ -300,7 +316,7 @@ ul.topbar {
 	blockquote {
 		padding: 0 0 0 15px;
 		margin: 15px 5px;
-		border-left: 8px solid #000000;
+		border-left: 8px solid $color-black;
 	}
 
 	strong {
@@ -308,7 +324,7 @@ ul.topbar {
 	}
 
 	hr {
-		border-top: 3px solid #333333;
+		border-top: 3px solid $color-hr;
 		border-left: 0;
 	}
 
@@ -347,7 +363,7 @@ ul.topbar {
 	}
 
 	table, th, td {
-		border: 1px solid #222222;
+		border: 1px solid $color-table-border;
 		padding: 2px;
 	}
 
@@ -356,7 +372,7 @@ ul.topbar {
 	}
 }
 .hljs {
-	background: #ffffff;
+	background: $color-white;
 }
 .footer {
 	font-size: 12px;
@@ -366,7 +382,7 @@ ul.topbar {
 		text-align: center;
 
 		a {
-			color: #24244a;
+			color: $color-footer-link;
 		}
 	}
 }
@@ -473,17 +489,17 @@ ul.topbar {
 } /* the new scrollbar will have a flat appearance with the set background color */
  
 ::-webkit-scrollbar-thumb {
-	background-color: #cccccc;
+	background-color: $color-button-bg;
 	border-width: 2px;
 	border-style: groove ridge ridge groove;
-	border-color: #ffffff #000000 #000000 #ffffff;
+	border-color: $color-white $color-black $color-black $color-white;
 } /* this will style the thumb, ignoring the track */
  
 ::-webkit-scrollbar-button {
-	background-color: #cccccc;
+	background-color: $color-button-bg;
 	border-width: 2px;
 	border-style: groove ridge ridge groove;
-	border-color: #ffffff #000000 #000000 #ffffff;
+	border-color: $color-white $color-black $color-black $color-white;
 	background-position: center center;
 	background-repeat: no-repeat;
 
@@ -509,5 +525,5 @@ ul.topbar {
 } /* optionally, you can style the top and the bottom buttons (left and right for horizontal bars) */
  
 ::-webkit-scrollbar-corner {
-	background-color: #cacaca;
+	background-color: $color-scrollbar-corner;
 } /* if both the vertical and the horizontal bars appear, then perhaps the right bottom corner also needs to be styled */
