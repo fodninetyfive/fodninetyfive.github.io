@@ -395,90 +395,67 @@ ul.topbar {
 		word-break: break-word;
 	}
 }
+// Responsive breakpoints (organized in descending order)
 @media only screen and (max-width: 900px) {
-    .content {
-        width: 90%;
-    }
-}
-@media only screen and (max-width: 700px) {
-    .content {
-        width: 90%;
-    }
-	.post_content {
-		width: 98%;
+	.content {
+		width: 90%;
 	}
 }
-@media only screen and (max-width: 400px) {
-	.post_content {
-		width: 97%;
-	}
-}
+
 @media only screen and (max-width: 810px) {
 	.wrapper {
 		width: 90%;
 	}
 	.post_total {
-		.left {
-			width: 37%;
-		}
-		.right {
-			float: right;
-			width: 60%;
-		}
+		.left { width: 37%; }
+		.right { float: right; width: 60%; }
 	}
 }
+
 @media only screen and (max-width: 750px) {
-	.tag_list {
+	.tag_list,
+	.post_list {
 		width: 99%;
 	}
 	.post_list {
-		width: 99%;
 		float: left;
 	}
 	.post_total {
-		.left {
-			width: 36%;
-		}
-		.right {
-			float: right;
-			width: 60%;
-		}
+		.left { width: 36%; }
+		.right { float: right; width: 60%; }
 	}
 }
+
+@media only screen and (max-width: 700px) {
+	.post_content {
+		width: 98%;
+	}
+}
+
 @media only screen and (max-width: 610px) {
-	.tag_list {
-		width: 98.7%;
-	}
+	.tag_list,
 	.post_list {
 		width: 98.7%;
-		float: left;
 	}
-	.post_total {
-		.left {
-			width: 35.7%;
-		}
-	}
+	.post_total .left { width: 35.7%; }
 }
+
 @media only screen and (max-width: 520px) {
-	.post_total {
-		.left {
-			width: 34.5%;
-		}
-	}
+	.post_total .left { width: 34.5%; }
 }
+
 @media only screen and (max-width: 410px) {
-	.post_total {
-		.left {
-			width: 34%;
-		}
+	.post_total .left { width: 34%; }
+}
+
+@media only screen and (max-width: 400px) {
+	.post_content {
+		width: 97%;
 	}
 }
+
 @media only screen and (max-width: 375px) {
-	.post_total {
-		.left {
-			width: 33%;
-		}
-	}
+	.post_total .left { width: 33%; }
 }
 ::-webkit-scrollbar {
       width: 16px;
