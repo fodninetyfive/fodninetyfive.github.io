@@ -29,27 +29,3 @@ collections:
   tags:
     output: true
     permalink: /tags/:name/
-
-# Front matter defaults - auto-set layout and tags based on path
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: default
-  - scope:
-      path: "_posts/mydocuments/ruminations"
-    values:
-      tags: ruminations
-  - scope:
-      path: "_posts/mydocuments/yellowcarding"
-    values:
-      tags: yellowcarding
-  - scope:
-      path: "_posts/myprojects/creative"
-    values:
-      tags: creative
-  - scope:
-      path: "_posts/mymusic/bootlegs"
-    values:
-      tags: bootlegs

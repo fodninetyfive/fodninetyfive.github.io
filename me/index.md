@@ -1,5 +1,5 @@
 ---
-layout: me
+layout: page
 title: "About Me"
 ---
 
