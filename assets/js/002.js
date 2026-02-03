@@ -3,29 +3,29 @@
 
 function numbers () {
 	var fields = document.getElementsByTagName("code");
-	for (field in fields) {
+	for (var i = 0; i < fields.length; i++) {
 		var num = 0;
-		var select = fields[field].innerText;
+		var select = fields[i].innerText;
 		var select_f = select.split(/\n/);
 		var tab = document.createElement("table");
 
 		// IF YOU USE MARKDOWN AND YOU HAVE BEEN GETTING ONE ADDITIONAL LINE IN YOUR TAG CODE
 		// UNCOMMENT THE SECTION BELOW
-		
+
 		/* MARKDOWN SECTION /**/
 
 		select_f.splice(-1, 1);
 
 		/* END OF SECTION*/
 
-		fields[field].innerHTML = "";
-		fields[field].appendChild(tab);
-		for (line in select_f) {
+		fields[i].innerHTML = "";
+		fields[i].appendChild(tab);
+		for (var j = 0; j < select_f.length; j++) {
 			var row = document.createElement("tr");
 			var col = document.createElement("th");
 			var colc = document.createElement("th");
 			col.innerText = num + 1;
-			colc.innerText = select_f[line];
+			colc.innerText = select_f[j];
 			row.appendChild(col);
 			row.appendChild(colc);
 			tab.appendChild(row);
@@ -48,4 +48,4 @@ function numbers () {
 	}
 }
 
-window.onload = numbers();
+document.addEventListener('DOMContentLoaded', numbers);

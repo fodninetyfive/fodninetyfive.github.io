@@ -5,24 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="/assets/css/atom-one-light.css">
-    {% assign has_subtag = false %}
-    {% assign tag_name = "" %}
-    {% assign tag_icon = "/assets/img/mycomputer.png" %}
-    {% for tag in site.data.tags %}
-        {% if page.url == tag.url %}
-            {% assign tag_name = tag.name %}
-            {% assign tag_icon = tag.icon %}
-        {% endif %}
-        {% if tag.sub_tags %}
-            {% for sub_tag in tag.sub_tags %}
-                {% if page.url == sub_tag.url or page.tags contains sub_tag.name %}
-                    {% assign has_subtag = true %}
-                    {% assign tag_name = sub_tag.name %}
-                    {% assign tag_icon = sub_tag.icon %}
-                {% endif %}
-            {% endfor %}
-        {% endif %}
-    {% endfor %}
+    {% include tag_lookup.html %}
     {% if has_subtag and page.date %}
         <title>{{ site.name }} - {{ page.title }}</title>
         <link rel="stylesheet" type="text/css" href="/assets/css/002.css">
@@ -42,24 +25,7 @@
 <body>
     <div class="wrapper">
  <div class="default_title">
-    {% assign has_subtag = false %}
-    {% assign tag_name = site.name %}
-    {% assign tag_icon = "/assets/img/mycomputer.png" %}
-    {% for tag in site.data.tags %}
-        {% if page.url == tag.url %}
-            {% assign tag_name = tag.name %}
-            {% assign tag_icon = tag.icon %}
-        {% endif %}
-        {% if tag.sub_tags %}
-            {% for sub_tag in tag.sub_tags %}
-                {% if page.url == sub_tag.url or page.tags contains sub_tag.name %}
-                    {% assign has_subtag = true %}
-                    {% assign tag_name = sub_tag.name %}
-                    {% assign tag_icon = sub_tag.icon %}
-                {% endif %}
-            {% endfor %}
-        {% endif %}
-    {% endfor %}
+    {% include tag_lookup.html %}
     <img src="{{ tag_icon }}" />
     <h1>{{ tag_name }}</h1>
 </div>
@@ -162,9 +128,9 @@
             <div class="post_title">
                 <img src="/assets/img/file.png" />
                 <h1>{{ page.title }}</h1>
-                <a href="/"><div class="btn"><span class="fa fa-times"></span></div></a>
+                <a href="{{ tag_url }}"><div class="btn"><span class="fa fa-times"></span></div></a>
                 <div class="btn btn_max"><span class="fa fa-window-maximize"></span></div>
-                <div class="btn"><span class="fa fa-window-minimize"></span></div>
+                <div class="btn btn_min"><span class="fa fa-window-minimize"></span></div>
             </div>
             <ul class="topbar">
                 {% if page.date %}
